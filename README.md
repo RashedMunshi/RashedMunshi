@@ -3,8 +3,9 @@
 #### Software Quality Assurance(SQA) And Test Engineer
 
 Mobile No: 01725490451   
-LinkedIn: www.linkedin.com/in/rashed-munshi 
-E-mail: rashed.munshi1@gmail.com  
+E-mail: rashed.munshi1@gmail.com   
+LinkedIn: www.linkedin.com/in/rashed-munshi   
+
 
 I am from The Comilla City, Bangladesh. I am a very Honest, Humble and Truthful Person. I love to discuss National and International Political and Social Affairs and I was never related to any Political Organisation. I Love to share strange Information with people. I Love watching Football, Cricket, Long Tennis etc. I Love watching Movies, listening music and poems. I am a True Fundamental Muslim Bangalee, actually I am a fundamentalist.
 
