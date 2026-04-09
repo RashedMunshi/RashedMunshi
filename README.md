@@ -4,10 +4,7 @@
 
 Mobile No: 01725490451   
 E-mail: rashed.munshi1@gmail.com   
-LinkedIn: www.linkedin.com/in/rashed-munshi   
-
-
-I am from The Comilla City, Bangladesh. I am a very Honest, Humble and Truthful Person. I love to discuss National and International Political and Social Affairs and I was never related to any Political Organisation. I Love to share strange Information with people. I Love watching Football, Cricket, Long Tennis etc. I Love watching Movies, listening music and poems. I am a True Fundamental Muslim Bangalee, actually I am a fundamentalist.  
+LinkedIn: www.linkedin.com/in/rashed-munshi     
    
 #### Professional Summary:   
 Software Quality Assurance Engineer with hands-on experience in manual testing of web, desktop, and mobile applications, including HRMS and fintech systems. Proven ability to design and execute large-scale test cases and perform end-to-end system validation as a sole QA contributor. Skilled in defect tracking, test reporting, and ensuring stable, high-quality releases. Currently expanding expertise in API testing using Postman and learning automation skills with Selenium to improve test efficiency and support scalable QA processes.   
