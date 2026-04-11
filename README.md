@@ -22,8 +22,8 @@ Software Quality Assurance Engineer with hands-on experience in manual testing o
 #### Key Achievements:   
 ❖ Executed over 2,000 test cases for Android fintech applications, ensuring comprehensive functional coverage.   
 ❖ Acted as the sole QA for the HRMS system, validating 10+ modules end-to-end.   
-❖ Delivered 27+ issue reports, raissed  improving system stability and reducing production issues.   
-❖ Prepared and delivered 8+ comprehensive test reports supporting release decisions.   
+❖ Prepared and delivered 8+ comprehensive test reports, which include several 1000’s of Test Cases, thus supporting release decisions.
+❖ Delivered 27+ issue reports, pointed out several 100’s of issues, and resolved more than 300 issues, improving system stability and reducing production issues.  
 
 #### Professional Experience:   
 #### ❖ Software Quality Analyst,
