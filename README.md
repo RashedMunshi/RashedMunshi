@@ -22,7 +22,7 @@ Software Quality Assurance Engineer with hands-on experience in manual testing o
 #### Key Achievements:   
 ❖ Executed over 2,000 test cases for Android fintech applications, ensuring comprehensive functional coverage.   
 ❖ Acted as the sole QA for the HRMS system, validating 10+ modules end-to-end.   
-❖ Delivered 27+ issue reports, improving system stability and reducing production issues.   
+❖ Delivered 27+ issue reports, raissed  improving system stability and reducing production issues.   
 ❖ Prepared and delivered 8+ comprehensive test reports supporting release decisions.   
 
 #### Professional Experience:   
@@ -30,8 +30,9 @@ Software Quality Assurance Engineer with hands-on experience in manual testing o
 #### Computer Ease Limited, West Dhanmondi, Dhaka.   
 ➢ Performed end-to-end testing as the sole member of the testing team for GOHr HRMS (SaaS & Desktop) for ESS and Admin users, validating modules including Home Dashboard, System Setup & Master Data, Organization Structure, Employee Profile, Attendance, Leave Management, Manage Employee, Core Payroll, Final Settlement, Recruitment, and Performance Management.   
 ➢ Conducted a wide range of testing types, including Functional, Smoke, System, Sanity, Regression, Exploratory, Ad-Hoc, etc.   
-➢ Delivered 25+ issue reports and 7+ test reports, improving overall software quality.    
-➢ Collaborated closely with developers and Project Managers to ensure timely bug resolution and smooth system operations.   
+➢	Prepared and delivered 8+ comprehensive test reports, which include several 1000’s of Test Cases, thus supporting release decisions.
+➢	Delivered 27+ issue reports, pointed out several 100’s of issues, and resolved more than 300 issues, improving system stability and reducing production issues.
+  
 #### ❖ Software Quality Assurance Engineer Intern,   
 #### BracIT, Gulshan 1, Dhaka.   
 ➢ Worked on BRAC Microfinance Android applications (Smart PO, Smart BM).    
@@ -59,10 +60,6 @@ Software Quality Assurance Engineer with hands-on experience in manual testing o
 ❖ B.Sc. in CSE (4-year program), with a CGPA 3.02/4 from Jahangirnagar University.    
 ❖ HSC in Science, with a CGPA 4.50/5 from Comilla Govt. College.   
 ❖ SSC in Science, with a CGPA 5/5 from Comilla Zilla School.   
-
-#### Academic Projects:   
-❖ “Blood Group Management System” for Web under the Supervision of Md. Golam Moazzem, Professor, Dept. of CSE, Jahangirnagar University.    
-❖ “Blood Group Management System” for Desktop under the Supervision of Dr. Jugal Krishna Das, Professor, Dept. of CSE, Jahangirnagar University.    
 
 #### Soft Skills:   
 ❖ Analytical and Critical Thinking.   
