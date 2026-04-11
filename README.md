@@ -53,7 +53,7 @@ Software Quality Assurance Engineer with hands-on experience in manual testing o
 ➢ Managed and operated an online F-commerce business for 2 years.   
 ➢ Handled product operations, customer communication, and order management.   
 #### ❖ Head of Department & Instructor (Ad hoc)
-#### Computer Technology Department, Anjuman Mukhlesur Rahman Polytechnic Institute.   
+Computer Technology Department, Anjuman Mukhlesur Rahman Polytechnic Institute.   
 
 #### Educational Qualifications:   
 ❖ M.Sc. in CSE (1-year program), with a CGPA 3.15/4 from Jahangirnagar University.   
