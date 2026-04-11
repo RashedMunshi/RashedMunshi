@@ -1,6 +1,6 @@
 # Assalamu Alaikum
 ### Md. Rashedul Islam Munshi
-#### Software Quality Assurance(SQA) And Test Engineer
+#### Software Quality Engineer
 
 Mobile No: 01725490451   
 E-mail: rashed.munshi1@gmail.com   
