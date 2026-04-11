@@ -30,7 +30,7 @@ Software Quality Assurance Engineer with hands-on experience in manual testing o
 #### Computer Ease Limited, West Dhanmondi, Dhaka.   
 ➢ Performed end-to-end testing as the sole member of the testing team for GOHr HRMS (SaaS & Desktop) for ESS and Admin users, validating modules including Home Dashboard, System Setup & Master Data, Organization Structure, Employee Profile, Attendance, Leave Management, Manage Employee, Core Payroll, Final Settlement, Recruitment, and Performance Management.   
 ➢ Conducted a wide range of testing types, including Functional, Smoke, System, Sanity, Regression, Exploratory, Ad-Hoc, etc.   
-➢	Prepared and delivered 8+ comprehensive test reports, which include several 1000’s of Test Cases, thus supporting release decisions.   
+➢	Prepared and delivered 8+ comprehensive test reports, which include several 1000’s of Test Cases, thus supporting release decisions.    
 ➢	Delivered 27+ issue reports, pointed out several 100’s of issues, and resolved more than 300 issues, improving system stability and reducing production issues.
   
 #### ❖ Software Quality Assurance Engineer Intern,
