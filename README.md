@@ -1,6 +1,6 @@
 # Assalamu Alaikum
 ### Md. Rashedul Islam Munshi
-#### Software Quality Engineer
+#### Software Quality Assurance
 
 Mobile No: 01725490451   
 E-mail: rashed.munshi1@gmail.com   
