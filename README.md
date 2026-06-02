@@ -53,6 +53,8 @@ Software Quality Assurance Engineer with hands-on experience in manual testing o
 #### Tools:   
 ❖ Bug/Issue Tracking: JIRA.   
 ❖ Data, Reporting, and Documentation: MS Excel, MS Word, Google Sheets, etc.   
+❖ API Testing: Postman, Playwright(learning).  
+❖ QA Automation: Playwright.  
 
 #### Additional Experience:   
 #### ❖ Founder (E-commerce Business)     
