@@ -12,23 +12,23 @@ I am from The Comilla City, Bangladesh. I am a very Honest, Humble and Truthful 
 Software Quality Assurance Engineer with hands-on experience in manual testing of web, desktop, and mobile applications, including HRMS and fintech systems. Proven ability to design and execute large-scale test cases and perform end-to-end system validation as a sole QA contributor. Skilled in defect tracking, test reporting, and ensuring stable, high-quality releases. Currently expanding expertise in AI-assisted QA workflows and learning QA Automation using Playwright with Python to improve test efficiency and support scalable QA processes.
 
 #### Key Skills:   
-❖ Manual Testing (Functional, Regression, System, Exploratory, UAT, etc.).
-❖ Automation Testing (Playwright).
-❖ Test Case Design & Execution. 
-❖ Analyzing SRS to derive effective test scenarios aligned with business requirements and logic.
-❖ Web & Mobile Application Testing.
-❖ API Testing using Postman(manual) && Playwright(automation).
-❖ Defect/Bug Tracking & Reporting (JIRA).
-❖ Test Reporting & Documentation (Independently handling end-to-end test reports).
-❖ Software Development Life Cycle (SDLC) & Software Testing Life Cycle (STLC).
-❖ Utilizing AI tools to enhance learning, productivity, and QA workflows.
+❖ Manual Testing (Functional, Regression, System, Exploratory, UAT, etc.).  
+❖ Automation Testing (Playwright).  
+❖ Test Case Design & Execution.   
+❖ Analyzing SRS to derive effective test scenarios aligned with business requirements and logic.  
+❖ Web & Mobile Application Testing.  
+❖ API Testing using Postman(manual) && Playwright(automation).  
+❖ Defect/Bug Tracking & Reporting (JIRA).  
+❖ Test Reporting & Documentation (Independently handling end-to-end test reports).  
+❖ Software Development Life Cycle (SDLC) & Software Testing Life Cycle (STLC).  
+❖ Utilizing AI tools to enhance learning, productivity, and QA workflows.  
   
 
 #### Key Achievements:   
-❖ Written and executed over 2,000 test cases for Android fintech applications, and over 10,000 test cases for Web Applications.
+❖ Written and executed over 2,000 test cases for Android fintech applications, and over 10,000 test cases for Web Applications.    
 ❖ Acted as the sole QA for the HRMS system, validating 10+ modules end-to-end, thus supporting release decisions.
-❖ Prepared and delivered 8+ comprehensive test reports.
-❖ Delivered 27+ issue reports, pointed out several 100’s of issues, and resolved more than 300 issues, improving system stability and reducing production issues.
+❖ Prepared and delivered 8+ comprehensive test reports.  
+❖ Delivered 27+ issue reports, pointed out several 100’s of issues, and resolved more than 300 issues, improving system stability and reducing production issues.  
 
 
 #### Professional Experience:   
